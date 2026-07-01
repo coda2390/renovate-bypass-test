@@ -4,6 +4,7 @@
   "platformAutomerge": false,
   "automerge": true,
   "automergeType": "pr",
+  "dependencyDashboard": true,
   "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch"],
