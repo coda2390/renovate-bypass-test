@@ -9,10 +9,10 @@
   "dependencies": {
     "lodash": "4.18.1",
     "lodash": "4.17.21",
-    "axios": "0.33.0"
+    "axios": "1.18.1"
   },
   "devDependencies": {
-    "axios": "0.21.0",
+    "axios": "1.18.1",
     "prettier": "2.0.0"
   }
 }
